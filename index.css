@@ -1,0 +1,21 @@
+.options{
+    margin: auto;
+    margin-top: 20px;
+}
+
+.opt{
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+    width: 150px;
+    
+}
+
+.anchor{
+    color: white;
+}
+
+a:hover{
+    text-decoration: none;
+    color: cyan;
+}
